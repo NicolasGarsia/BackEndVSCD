@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "autor": "machado de assis",
+        "nome": "Don Casmurro",
+        "ano": 1899
+    },
+    {
+        "id": "2",
+        "autor": "John Green",
+        "nome": "A Culpa É das Estrelas",
+        "ano": 2012
+    },
+    {
+        "id": "3",
+        "autor": "Rick Riordan",
+        "nome": "The Titan's Curse",
+        "ano": 2007
+    }
+]
